@@ -12,8 +12,8 @@ ratings_train.json 파일을 이용해 훈련 데이터로 만들었고, 외부�
 
 |emotion|count|
 |---|---|
-|neutral|4752|
-|non-neutral|2017|
+|0|75173|
+|1|74827|
 |joy|1283|
 |surprise|1220|
 |anger|513|
