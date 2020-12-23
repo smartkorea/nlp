@@ -9,16 +9,16 @@
 friends_train.json 파일을 이용해 훈련 데이터와 검증 데이터를 만들었고, 외부의 테스트 데이터는 사용하지 않았습니다.
 캐글에서 제공한 en_data.csv 파일은 테스트 데이터로 사용하여 결과를 제출하였습니다.
 
-emotion|count
-:---|:---:|---:
-neutral|4752
-non-neutral|2017
-joy|1283
-surprise|1220
-anger|513
-sadness|351
-disgust|240
-fear|185
+|emotion|count|
+|---|---|
+|neutral|4752|
+|non-neutral|2017|
+|joy|1283|
+|surprise|1220|
+|anger|513|
+|sadness|351|
+|disgust|240|
+|fear|185|
 
 &nbsp;
 
